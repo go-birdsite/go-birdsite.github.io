@@ -1,0 +1,7 @@
+baseURL = "https://go-birdsite.github.io/"
+languageCode = "en-us"
+title = "go-birdsite"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap", "404"]
+
+[markup.goldmark.renderer]
+  unsafe = true
